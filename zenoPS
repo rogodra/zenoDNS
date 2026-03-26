@@ -142,6 +142,6 @@
 #included in ps5 list 0.0.0.0 us.np.stun.playstation.net
 0.0.0.0 fswitch.dl.playstation.net
 0.0.0.0 rnps-crl.dl.playstation.net
-#included in ps5 list 0.0.0.0 urlconfig.api.playstation.com
+0.0.0.0 urlconfig.api.playstation.com
 0.0.0.0 crepo.ww.dl.playstation.net
 
